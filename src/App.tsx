@@ -69,31 +69,10 @@ function App() {
 export default App;
 
  
+ // What you will Learn
 
-//  Deploying to vercel
+ // react query  - data management & caching 
 
+//  global state management   - reduceers , context , providers , zustand 
 
-//  vit > deplyiing on a static site
-
-// so we want to create repo on github whenever we push code there ,
-// vercel grabs and push it to the production
-
-
-//  use this lines from github to push existing repos to new project
-// git remote add origin https://github.com/Nikhilnick9922/game-hub.git
-// git branch -M main
-// git push -u origin main
-
-
-//  push the files to new repo name game-hub
-
-// we need to instal vercel cli for deploying our application
-
-// sudo npm i -g vercel 
-
-//  run vercel to deploy to vercel 
-
-// and login with vercel and follow default settings
-
-
-//  to connect with github , login with github  -> connect with git repos - select and connect
+//  rounting with react router - game page for deviing details
